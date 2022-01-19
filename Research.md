@@ -68,6 +68,10 @@ A simple example of that may be a timelock contract that makes a UTXO spendable 
 4. **Scalability**: Improves network scalability by reducing the amount of data to be transferred and stored on the blockchain.
 
 
+The Taproot upgrade would lay foundation for many of future upgrades that would happen on Bitcoin protocol. 
+It is also important to note that benefits of Taproot to the Bitcoin network are not imminently seen as it's affected by percentage of the network that upgrades their client, that is, the more nodes and client that upgrade, the more user, investors and developers benefit from it.
+
+
 
 
 
